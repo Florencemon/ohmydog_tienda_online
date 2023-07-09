@@ -33,5 +33,5 @@ $ npm start
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
-Coderhouse collaborate with your project.
+Coderhouse collaborate with this project.
 
